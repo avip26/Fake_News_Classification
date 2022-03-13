@@ -38,23 +38,24 @@ In this digital world the fake new spread so rapidly without any authenticity of
 
 **Model Result:**
 **Train- 80%, Test- 20%**
-• TFIDF (max feature = 400) + Random Forest Classifier = 90.76
-• TFIDF (max feature = 400) + logistic regression = 91.17
-• CountVectorizer (max feature = 400) + Random Forest Classifier = 90.64
-•	CountVectorizer (max feature = 400) + Random Forest Classifier = 90.37
+1)	TFIDF (max feature = 400) + Random Forest Classifier = 90.76
+2)	TFIDF (max feature = 400) + logistic regression = 91.17
+3)	CountVectorizer (max feature = 400) + Random Forest Classifier = 90.64
+4)	CountVectorizer (max feature = 400) + Random Forest Classifier = 90.37    
 
-•	TFIDF (max feature = 300) + Random Forest Classifier = 90.597
-•	TFIDF (max feature = 300) + logistic regression = 91.177
-•	CountVectorizer (max feature = 300) + Random Forest Classifier = 89.67
-•	CountVectorizer (max feature = 300) + Random Forest Classifier = 89.58    
+5)	TFIDF (max feature = 300) + Random Forest Classifier = 90.597
+6)	TFIDF (max feature = 300) + logistic regression = 91.177
+7)	CountVectorizer (max feature = 300) + Random Forest Classifier = 89.67
+8)	CountVectorizer (max feature = 300) + Random Forest Classifier = 89.58
+
 **Train- 70%, Test- 30%**
-•	TFIDF (max feature = 400) + Random Forest Classifier = 90.97
-•	TFIDF (max feature = 400) + logistic regression = 91.34
-•	CountVectorizer (max feature = 400) + Random Forest Classifier = 90.70
-•	CountVectorizer (max feature = 400) + Random Forest Classifier = 90.55
+1)	TFIDF (max feature = 400) + Random Forest Classifier = 90.97
+2)	TFIDF (max feature = 400) + logistic regression = 91.34
+3)	CountVectorizer (max feature = 400) + Random Forest Classifier = 90.70
+4)	CountVectorizer (max feature = 400) + Random Forest Classifier = 90.55
 
-•	TFIDF (max feature = 300) + Random Forest Classifier = 89.05
-•	TFIDF (max feature = 300) + logistic regression = 88.99
-•	CountVectorizer (max feature = 300) + Random Forest Classifier = 89.20
-•	CountVectorizer (max feature = 300) + Random Forest Classifier = 88. 
+5)	TFIDF (max feature = 300) + Random Forest Classifier = 89.05
+6)	TFIDF (max feature = 300) + logistic regression = 88.99
+7)	CountVectorizer (max feature = 300) + Random Forest Classifier = 89.20
+8)	CountVectorizer (max feature = 300) + Random Forest Classifier = 88. 
 
