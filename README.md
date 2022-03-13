@@ -59,3 +59,4 @@ In this digital world the fake new spread so rapidly without any authenticity of
 7)	CountVectorizer (max feature = 300) + Random Forest Classifier = 89.20
 8)	CountVectorizer (max feature = 300) + Random Forest Classifier = 88. 
 
+## TFIDF with Logistic regression gives us the best result, so we move ahead with the logitic regressiom model
