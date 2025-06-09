@@ -1,6 +1,6 @@
 # Fake_News_Classification
 In this digital world the fake new spread so rapidly without any authenticity of it. To solve this problem, I worked over this project. The dataset is provided consist of news article along with its authenticity. The task is to train a model that can predict the reliability of news based on the given attributes. Basically, it’s a classification problem.
-
+Adding some random details 
 **Tools / Skills Used1:**
 1.	Python Programming
 2.	Jupyter Notebook
